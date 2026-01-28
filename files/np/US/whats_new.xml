@@ -5,8 +5,8 @@
 	<!-- Main Ads -->
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
-			<owner>Luan Teles</owner>
-			<desc>Welcome to PS3™ 4K Pro, enjoy the new and improved features.</desc>
+			<owner>jes</owner>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/welcome.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/welcome.swf</url>
 			<target type="u">psvp:play?url=https://ps3-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
@@ -21,27 +21,27 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>News and Updates will be displayed here as soon as they become available.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Enjoy your favorite music with online radio.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>How about helping translating the features to other languages?</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Join us on the Telegram.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
@@ -80,8 +80,7 @@
 <!------------------------------------------------HOLYDAYS AND COMMEMORATIVE DAYS------------------------------------------->
 		<!-- Valentine's Day -->
 		<mtrl id="0" mname="Valentine's Day" from="2025-02-14T00:00:00.000Z" until="2025-02-15T00:00:00.000Z" lastm="2025-02-14T00:00:00.000Z" anno="emergency=1">
-			<desc>Valentine's Day!
-			Love is in the air.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/holydays/valentine%27s_day.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/holydays/valentine%27s_day.swf</url>
 			<target type="u">http:/localhost/install.ps3?to=/dev_hdd0/theme&url=https:/github.com/PS3-Pro/Whats-New/Resources/Themes/ValentinesDay.p3t;/wait.ps3?20;/install.ps3/dev_hdd0/theme/ValentinesDay.p3t</target>
@@ -90,8 +89,7 @@
 		</mtrl>
 		<!-- Easter -->
 		<mtrl id="0" mname="Easter" from="2025-04-04T00:00:00.000Z" until="2025-04-05T00:00:00.000Z" lastm="2025-04-04T00:00:00.000Z" anno="emergency=1">
-			<desc>Happy Easter!
-			Celebrate the life.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/holydays/easter_day.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/holydays/easter_day.swf</url>
 			<target type="u"/>
@@ -100,8 +98,7 @@
 		</mtrl>
 		<!-- Mother's Day -->
 		<mtrl id="0" mname="Easter" from="2025-05-09T00:00:00.000Z" until="2025-05-10T00:00:00.000Z" lastm="2025-05-09T00:00:00.000Z" anno="emergency=1">
-			<desc>Happy Mother's Day
-			For all the bravest women of our lives.</desc>
+			<desc>test test test test test test test test</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/holydays/mother%27s_day.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/holydays/mother%27s_day.swf</url>
 			<target type="u"/>
