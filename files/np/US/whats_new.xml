@@ -47,14 +47,14 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc> Watchmen: The End is Nigh Part 1 Appears in PlayStation®Store on April 10th 2009</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- <mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Get the forecast for today, tonight &amp; tomorrow's weather.</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
