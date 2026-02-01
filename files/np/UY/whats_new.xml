@@ -27,7 +27,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>PlayStation®Store Update June 29</desc>
+			<desc>PlayStation Store (PS3) update - 27/08/09</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
@@ -47,30 +47,30 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
+		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>ReClassic 2.05 Change Notes: Brought back the classic, better PlayStation®Store; restored Life with PlayStation®/Folding@Home menu, and more! Download from the ReClassic Discord today!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Get the forecast for today, tonight &amp; tomorrow's weather.</desc>
+			<desc>Blur release date confirmed</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Current local time.</desc>
+			<desc>Special thanks to Jes and Luan Teles for this super duper Information Board!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl> -->
+		</mtrl>
 		<mtrl id="10" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
-			<desc>A New Update is Available: v5.X</desc>
+			<desc>An updated PS3 hardware mod unlocks CELL and RSX overclocking on the Super Slim using a Raspberry Pi Pico</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
