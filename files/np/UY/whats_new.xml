@@ -48,7 +48,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic 2.05 Change Notes: Brought back the classic, better PlayStation®Store; restored Life with PlayStation®/Folding@Home menu, and more! Download from the ReClassic Discord today!</desc>
+			<desc>ReClassic 2.05 Change Notes: Restored classic PlayStation®Store and Life with PlayStation®/Folding@Home menu</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
@@ -69,7 +69,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="10" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
+		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>An updated PS3 hardware mod unlocks CELL and RSX overclocking on the Super Slim using a Raspberry Pi Pico</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
