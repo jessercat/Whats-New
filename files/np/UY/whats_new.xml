@@ -14,7 +14,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Lumines Supernova comes to the PlayStation Store in December 2008!</desc>
+			<desc>Lumines Supernova comes to the PlayStation®Store in December 2008!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
@@ -34,7 +34,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>PlayStation Blog Weekly Recap</desc>
+			<desc>PlayStation®Blog Weekly Recap</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
