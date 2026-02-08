@@ -1,7 +1,7 @@
 <!-- Coded for PS3™ 4K Pro by Luan Teles -->
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10" id="1" multi="o" rep="t">
+	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10,11" id="1" multi="o" rep="t">
 	<!-- Main Ads -->
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
@@ -71,6 +71,12 @@
 		</mtrl>
 		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>qCFW is officially released for the 2500-3000 model PS3 slims and non-eMMC PS3 super slims</desc>
+			<url type="1">URL</url>
+			<target type="u">ACTION</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		<mtrl id="11" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Netflix shuts down on the PS3 on March 2, 2026, last Netflix device with 4:3 support</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
