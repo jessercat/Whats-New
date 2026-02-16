@@ -48,21 +48,21 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic and PLAYSTATION®3 update - 08-02-26</desc>
+			<desc>ReClassic and PLAYSTATION®3 update - 16-02-26</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic 2.05 Change Notes: Scrolling text now stays inside Information Board</desc>
+			<desc>TWO NEW RECLASSIC VERSIONS! One for 0.91 firmware and 2.30 firmware. Check out the Discord for more!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Special thanks to Jes and Luan Teles for this super duper Information Board!</desc>
+			<desc>Tom Clancy's EndWar has been brought back online thanks to the folks over at PSREBORN!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
@@ -70,7 +70,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>qCFW is officially released for the newer PS3 slims and non-eMMC PS3 super slims</desc>
+			<desc>Progress on reviving Life with PlayStation® is in active development, special thanks to Walky and Larsenv</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
