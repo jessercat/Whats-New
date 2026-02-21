@@ -7,7 +7,7 @@
 			<name>What's New</name>
 			<owner>RougePatron</owner>
 			<desc>Visit PlayStation®Store</desc>
-			<url type="1">https://jessercat/Whats-New/media/ads/psn.png</url>
+			<url type="1">https://github.com/jessercat/Whats-New/blob/main/media/ads/psn.png</url>
 			<target type="u">psvp:play?url=https://ps3-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
