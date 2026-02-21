@@ -47,7 +47,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Get Your PlayStation®Network Card</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
@@ -68,7 +68,7 @@
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl> -->
+		</mtrl>
 		<mtrl id="10" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
 			<desc>Uncharted 2: Among Thieves Will Be Released 10/13/09</desc>
 			<url type="1">URL</url>
