@@ -69,13 +69,6 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Uncharted 2: Among Thieves Will Be Released 10/13/09</desc>
-			<url type="1">URL</url>
-			<target type="u">ACTION</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
 
 <!------------------------------------------------HOLYDAYS AND COMMEMORATIVE DAYS------------------------------------------->
 		<!-- Valentine's Day -->
