@@ -48,21 +48,21 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic and PLAYSTATION®3 update - 16-02-26</desc>
+			<desc>ReClassic and PLAYSTATION®3 update - 23-02-26</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>TWO NEW RECLASSIC VERSIONS! One for 0.91 firmware and 2.30 firmware. Check out the Discord for more!</desc>
+			<desc>Check out the all new ReClassic edition mimicing 3.00 firmware today!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Tom Clancy's EndWar has been brought back online thanks to the folks over at PSREBORN!</desc>
+			<desc>Battlefield 4 is being revived thanks to the folks at Battlefield Reloaded!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
@@ -70,7 +70,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Progress on reviving Life with PlayStation® is in active development, special thanks to Walky and Larsenv</desc>
+			<desc>A new What's New and PlayStation®Store server is under way thanks to LeGamer</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
