@@ -62,8 +62,8 @@
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Girlz Play Too</desc>
-			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/clock.png</url>
-			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
+			<url type="73">https://github.com/jessercat/Whats-New/raw/refs/heads/main/media/ads/rss.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
