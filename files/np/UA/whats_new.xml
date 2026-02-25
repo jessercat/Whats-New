@@ -14,55 +14,55 @@
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Pulse 8/27 Edition - Preview</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Check Out What's Hot On The Video Store</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>PlayStation®Home Video - Welcome</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Beloved Classic PlayStation® Titles</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Over 20 Iconic Queen Songs</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>The 1st Full Game, All-Digital Handheld</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Get Your PlayStation®Network Card</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Girlz Play Too</desc>
-			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
+			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
