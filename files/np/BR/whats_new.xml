@@ -26,14 +26,14 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>PlayStation®Home Video - Bienvenido</desc>
+			<desc> Bienvenido a PlayStation Home Video.</desc>
 			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>¡Los clásicos más adorados de PlayStation® ya están disponibles en PlayStation®Store!</desc>
+			<desc>¡Los clásicos más adorados de PlayStation® ya están disponibles en PS Store!</desc>
 			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
@@ -54,14 +54,14 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Tarjetas de recarga de PlayStation®Store: ya disponibles en tiendas polacas</desc>
+			<desc>Las Gift Cards de PlayStation Store ya están disponibles.</desc>
 			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/placeholder.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Need For Speed ​​​​Hot Pursuit y muchos otros juegos de carreras mejor valorados de 2010 ¡están disponibles en PlayStation®Store!</desc>
+			<desc>¡NFS Hot Pursuit ya está disponible en PlayStation®Store!</desc>
 			<url type="1">https://raw.githubusercontent.com/jessercat/Whats-New/refs/heads/main/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
