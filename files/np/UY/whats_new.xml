@@ -21,48 +21,48 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Sign up for the Interactive World Cup now</desc>
+			<desc>PAIN Amusement Park Now Available!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Lumines Supernova comes to the PlayStation®Store in December 2008!</desc>
+			<desc>Download JEOPARDY! - Now Available!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Blur release date confirmed</desc>
+			<desc>MotorStorm Pacific Rift Demo at GameStop</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>The world of Singstar will rock you!</desc>
+			<desc>Buy Patapon 2 Today on PSN!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic and PLAYSTATION®3 update - 23-02-26</desc>
+			<desc>QORE Episode 12 Now Available</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Check out the all new ReClassic Edition mimicking 3.00 firmware today!!</desc>
+			<desc>ReClassic and PLAYSTATION®3 update - 23-02-26</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Battlefield 4 is being revived thanks to the folks at Battlefield Reloaded!</desc>
+			<desc>PEX versions of ReClassic coming soon and 4.93 is anticipated</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
