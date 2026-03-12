@@ -14,48 +14,48 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>PlayStation Store Update June 18</desc>
+			<desc>PlayStation Store Update March 12</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>PAIN Amusement Park Now Available!</desc>
+			<desc>Everyday Shooter Now Available!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Download JEOPARDY! - Now Available!</desc>
+			<desc>Super Stardust HD Now Available!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>MotorStorm Pacific Rift Demo at GameStop</desc>
+			<desc>Download fun demos from the PlayStation Store</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Buy Patapon 2 Today on PSN!</desc>
+			<desc>ReClassic and PLAYSTATION®3 update - 02-03-26</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>QORE Episode 12 Now Available</desc>
+			<desc>0.91 icons recreation underway for PreClassic</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>ReClassic and PLAYSTATION®3 update - 02-03-26</desc>
+			<desc>Plant vs Zombies: Garden Warfare PS3 servers will be shutting down on April 28th 2026</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
