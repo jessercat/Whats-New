@@ -6,7 +6,7 @@
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
 			<owner>Jes</owner>
-			<desc>Welcome to ReClassic!</desc>
+			<desc>Welcome to PS3 ReClassic!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/welcome.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/welcome.swf</url>
 			<target type="u">psvp:play?url=https://ps3-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
@@ -14,14 +14,14 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>4.93 is out. DO NOT UPDATE YOUR FIRMWARE!</desc>
+			<desc>4.93 is out. DO NOT UPDATE YOUR FIRMWARE UNTIL 4.93 CFW DROPS.</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>PlayStation Store Update March 12</desc>
+			<desc>Solid Snake slithers on to LittleBigPlanet and PSN</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
@@ -34,7 +34,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Download fun demos from the PlayStation Store</desc>
+			<desc>PlayStation Store Update March 21</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
@@ -48,21 +48,21 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>0.91 icons recreation underway for PreClassic</desc>
+			<desc>What are you looking forward to most from PlayStation in 2009?</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Plant vs Zombies: Garden Warfare PS3 servers will be shutting down on April 28th 2026</desc>
+			<desc>New on Blu-Ray Disc this week</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/weather.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>PEX versions of ReClassic coming soon and 4.93 is anticipated</desc>
+			<desc>Resistance: Retribution - Available Now</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
@@ -70,7 +70,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Ghost Recon: Future Soldier has been brought back online thanks to PSREBORN!</desc>
+			<desc>Download the COD:WaW Map Pack 1 Now!</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
