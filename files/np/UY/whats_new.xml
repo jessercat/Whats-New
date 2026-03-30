@@ -14,27 +14,27 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>4.93 is out. DO NOT UPDATE YOUR FIRMWARE UNTIL 4.93 CFW DROPS.</desc>
+			<desc>4.93 CFW is out! Be sure to update.</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Solid Snake slithers on to LittleBigPlanet and PSN</desc>
+			<desc>PlayStation Network Summer Sale</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Super Stardust HD Now Available!</desc>
+			<desc>Unbound Saga - RAGE OFF THE PAGE!!!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>PlayStation Store Update March 21</desc>
+			<desc>Pulse 7/16 Edition is Available Now</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
@@ -48,7 +48,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>What are you looking forward to most from PlayStation in 2009?</desc>
+			<desc>Check out Watchmen: The End Is Nigh</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
@@ -62,7 +62,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Resistance: Retribution - Available Now</desc>
+			<desc>Street Fighter IV Ships February 17th</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/clock.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/world_time_server.html</target>
@@ -70,7 +70,7 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Download the COD:WaW Map Pack 1 Now!</desc>
+			<desc>Skate 2 Demo now available!</desc>
 			<url type="1">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
